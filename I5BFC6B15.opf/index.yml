@@ -1,0 +1,47 @@
+id: 2c33038f27064246bdfd111d8b27eb94
+annotation_type: index
+revision: '00001'
+annotations:
+  479467818d08480c8685db90696b637c:
+    base: 04D2.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 125
+    - title: Homage
+      span:
+        start: 126
+        end: 171
+    - title: Short §1
+      span:
+        start: 172
+        end: 363
+    - title: Short §2
+      span:
+        start: 364
+        end: 550
+    - title: Short §3
+      span:
+        start: 551
+        end: 623
+    - title: Short §4
+      span:
+        start: 624
+        end: 1031
+    - title: Short §5
+      span:
+        start: 1032
+        end: 1271
+    - title: Short §6
+      span:
+        start: 1272
+        end: 1651
+    - title: Short §7
+      span:
+        start: 1652
+        end: 1964
+    - title: Colophon
+      span:
+        start: 1965
+        end: 1991

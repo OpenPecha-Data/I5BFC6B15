@@ -1,0 +1,16 @@
+id: I5BFC6B15
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:15:38.826250
+last_modified: 2023-02-08 15:15:38.826336
+source_metadata:
+  title: 'PP: Prajñāpāramitāhṛdaya'
+  language: bo
+bases:
+  04D2:
+    base_file: 04D2.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
